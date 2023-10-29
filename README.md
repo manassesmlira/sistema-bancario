@@ -20,7 +20,7 @@ Este sistema bancário usa um banco de dados integrado, especificado pelo arquiv
 
 ## Vídeo demonstrativo
 
-[![Assista ao Vídeo](https://i.ibb.co/Yfn5RMM/capa-video.jpg)](https://youtu.be/MyjLcFJWqVw?si=WdVkx-agHYz8rynC)
+[![Assista ao Vídeo](https://i.ibb.co/WvMFFGq/Design-sem-nome.png)](https://youtu.be/MyjLcFJWqVw?si=WdVkx-agHYz8rynC)
 
 ### Desktop
 
