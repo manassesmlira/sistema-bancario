@@ -43,7 +43,7 @@ Este sistema bancário usa um banco de dados integrado, especificado pelo arquiv
 ### Contribuidores
 
 <a href="https://github.com/manassesmlira">
-<img src="https://avatars.githubusercontent.com/u/20779100?v=4" width="70px" />
+<img src="https://i.ibb.co/h1YRCr6/mana-150px.png" width="70px" />
 </a>
 
 ### Autor
