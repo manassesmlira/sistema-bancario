@@ -2,27 +2,25 @@
 
 # Sistema Bancário | Nível Fácil
 
-Um dos desafios da Cubos Academy, onde o objetivo era criar um sistema bancário simples, usando Node.js, e o insomnia para observar o sistema funcionando.
+Um dos desafios da Cubos Academy, onde o objetivo era criar a API de um sistema bancário simples, usando Node.js, e o insomnia para observar o sistema funcionando.
 
 # Sobre Projeto:
 
-Este sistema bancário usa um banco de dados integrado, especificado pelo arquivo "bancodeDados.js" para salvar as informações resultantes da operação do sistema. Ele possui 9 endpoints, que exercem as funções básicas: atualizar, listar, criar, depoisitar, excluir, sacar, transferir, saldo, extrato. 
+Este sistema bancário usa um banco de dados integrado, especificado pelo arquivo "bancodeDados.js" para salvar as informações resultantes da operação do sistema. Ele possui 9 endpoints, que exercem as funções básicas: atualizar, listar, criar, depoisitar, excluir, sacar, transferir, saldo, extrato. Cada endpoint possui um controlador em arquivo separado para facilitar mudanças e atualizações caso necessário. Eles estão na pasta "controladores". 
 
-<img src="https://img.shields.io/github/stars/jessicamedeirosp/PROJETO-CSS?style=social">
-<img src="https://img.shields.io/github/issues-pr-raw/jessicamedeirosp/PROJETO-CSS?style=social">
-<img src="https://img.shields.io/github/issues-closed/jessicamedeirosp/PROJETO-CSS?style=social">
-
-[Projeto disponível](https://projetocss-jesscoder.netlify.app/)
+[Projeto disponível](https://github.com/manassesmlira/sistema-bancario)
 
 ### Linguagens e Ferramentas
 
-- HTML
-- CSS
-- Javascript
+- Node.js
 - Vscode
-- Live Server
+- Insomnia
+- Express
+- Nodemon
 
-## Layout
+## Vídeo demonstrativo
+
+<iframe width="560" height="315" src="https://youtu.be/MyjLcFJWqVw?si=WdVkx-agHYz8rynC" frameborder="0" allowfullscreen></iframe>
 
 ### Desktop
 
