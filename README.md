@@ -10,7 +10,7 @@ Este sistema bancário usa um banco de dados integrado, especificado pelo arquiv
 
 [Projeto disponível](https://github.com/manassesmlira/sistema-bancario)
 
-### Linguagens e Ferramentas
+### Para executar este projeto você vai precisar das seguintes Linguagens e Ferramentas
 
 - Node.js
 - Vscode
