@@ -22,15 +22,6 @@ Este sistema bancário usa um banco de dados integrado, especificado pelo arquiv
 
 [![Assista ao Vídeo](https://i.ibb.co/WvMFFGq/Design-sem-nome.png)](https://youtu.be/MyjLcFJWqVw?si=WdVkx-agHYz8rynC)
 
-### Desktop
-
-<img src="https://placehold.co/400x200"/>
-
-### Mobile
-
-<img src="https://placehold.co/200x400" />
-
-[Figma do Projeto](https://figma.com/)
 
 ### Contribua com o projeto
 
@@ -40,31 +31,25 @@ Este sistema bancário usa um banco de dados integrado, especificado pelo arquiv
 
 ### Fucionalidades do Projeto
 
-- [x] Funcionalidade 1
-- [x] Funcionalidade 2
-- [x] Funcionalidade 3
-- [ ] Funcionalidade 4
-- [ ] Funcionalidade 5
+- [x] Criar uma conta bancária
+- [x] Listar contas
+- [x] Fazer saques
+- [x] Depositar dinheiro na conta
+- [x] Transferir valores entre contas
+- [x] Consultar saldo
+- [x] Emitir extrato
+- [x] Deletar conta
 
 ### Contribuidores
 
-<a href="https://github.com/jessicamedeirosp">
-<img src="https://avatars.githubusercontent.com/u/20779100?v=4" width="70px" />
-</a>
-<a href="https://github.com/jessicamedeirosp">
-<img src="https://avatars.githubusercontent.com/u/20779100?v=4" width="70px" />
-</a>
-<a href="https://github.com/jessicamedeirosp">
-<img src="https://avatars.githubusercontent.com/u/20779100?v=4" width="70px" />
-</a>
-<a href="https://github.com/jessicamedeirosp">
+<a href="https://github.com/manassesmlira">
 <img src="https://avatars.githubusercontent.com/u/20779100?v=4" width="70px" />
 </a>
 
 ### Autor
 
-<a href="https://github.com/jessicamedeirosp">
-<img src="https://avatars.githubusercontent.com/u/20779100?v=4" width="70px" />
+<a href="https://github.com/manassesmlira">
+<img src="https://i.ibb.co/h1YRCr6/mana-150px.png" width="70px" />
 </a>
 
 [Licenca MIT License](http://creativecommons.org/licenses/by)
