@@ -1,6 +1,6 @@
-![]([https://ibb.co/r0TpLr2])
+![](https://i.ibb.co/54tjzHh/Sistema-Banc-rio.png)
 
-# Desafio | Back-end - Módulo 2
+# Sistema Bancário | Nível Fácil
 
 Você acabou de ser contratado pela melhor empresa de tecnologia do mundo: a **CUBOS**.
 Sua primeira tarefa como desenvolvedor é criar uma API para o banco digital Cubos Bank.  
